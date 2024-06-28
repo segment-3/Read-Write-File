@@ -7,7 +7,6 @@
 print()
 print('---------------------------------'.center(40))
 print('---          AIST 2120        ---'.center(40))
-print('---  Programming Assignment 6 ---'.center(40))
 print('---         CSV & JSON        ---'.center(40))
 print('---         Make a File       ---'.center(40))
 print('---------------------------------'.center(40))
