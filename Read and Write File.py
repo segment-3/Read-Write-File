@@ -1,8 +1,5 @@
 # Drew Rochford
 #AIST 2120
-#Lab Exercise 15
-#04/23/2021
-# Assignment_6.py
 
 # =======================================================================
 
@@ -66,11 +63,9 @@ print('*** JSON file operations complete ***')
 # Exit Message
 print()
 print('---------------------------------'.center(40))
-print('--- Programming Assignment 6  ---'.center(40))
 print('---          Complete         ---'.center(40))
 print('---------------------------------'.center(40))
 
-#-----------------------------------------------------------------------
 
-# End Assignment 6
+
 
